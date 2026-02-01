@@ -30,4 +30,4 @@ positions across matchweeks using Plotly.
 ## Usage
 ```bash
 pip install -r requirements.txt
-python bump_chart.py
+python premier_league_bump_chart_plotly_fbref.py
